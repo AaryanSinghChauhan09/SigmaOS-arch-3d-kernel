@@ -3,7 +3,7 @@ name = "SigmaOS-arch-3d-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-3d-kernel component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
